@@ -3,7 +3,7 @@
     "name": "C# and .Net Framework",
     "description": "C# and .Net Quiz (contains C#, .Net Framework, Linq, etc.)",
     "config": {
-        'allowBack': false,
+     'allowBack': false,
     'allowReview': false,
     'autoMove': false,  
     'duration': 5, 
@@ -384,4 +384,4 @@
             }
         }
     ]
-};
+}
