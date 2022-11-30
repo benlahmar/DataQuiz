@@ -367,17 +367,16 @@
       ],
     "config":{
 
-    'allowBack': false,
-    'allowReview': false,
-    'autoMove': false,  
-    'duration': 5, 
-    'pageSize': 10,
-    'requiredAll': false, 
-    'richText': false,
-    'shuffleQuestions': false,
-     'shuffleOptions': false,
-    'showClock': false,
-    'showPager': false,
-    'theme': 'dark'
+    "allowBack": false,
+    "allowReview": false,
+    "autoMove": false,  
+    "duration": 5, 
+    "pageSize": 10,
+    "requiredAll": false, 
+    "richText": false,
+    "shuffleQuestions": false,
+     "shuffleOptions": false,
+    "showClock": false,
+    "showPager": false
     }
     }
